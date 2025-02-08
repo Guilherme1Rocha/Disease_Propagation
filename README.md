@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the worst-case scenario of disease propagation in Portugal based on social interactions. Using data from the TugaNet social network, the program determines the maximum number of infection jumps possible in a directed graph representing interpersonal relationships.
+This project analyzes the worst-case scenario of disease propagation based on social interactions. The program determines the maximum number of infection jumps possible in a directed graph representing interpersonal relationships.
 
 ## Problem Statement
 
