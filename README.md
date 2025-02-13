@@ -1,4 +1,4 @@
-### TugaNet Disease Propagation Analysis
+# Disease Propagation Prediction
 
 ## Overview
 
